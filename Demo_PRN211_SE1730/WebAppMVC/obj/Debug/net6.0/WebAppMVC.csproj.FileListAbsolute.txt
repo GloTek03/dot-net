@@ -1,0 +1,51 @@
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\bin\Debug\net6.0\appsettings.json
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\bin\Debug\net6.0\WebAppMVC.exe
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\bin\Debug\net6.0\WebAppMVC.deps.json
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\bin\Debug\net6.0\WebAppMVC.runtimeconfig.json
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\bin\Debug\net6.0\WebAppMVC.dll
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\bin\Debug\net6.0\WebAppMVC.pdb
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\WebAppMVC.csproj.AssemblyReference.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\WebAppMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\WebAppMVC.AssemblyInfoInputs.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\WebAppMVC.AssemblyInfo.cs
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\WebAppMVC.csproj.CoreCompileInputs.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\WebAppMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.WebAppMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAppMVC.props
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAppMVC.props
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAppMVC.props
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\scopedcss\bundle\WebAppMVC.styles.css
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\WebAppMVC.dll
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\refint\WebAppMVC.dll
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\WebAppMVC.pdb
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\WebAppMVC.genruntimeconfig.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\ref\WebAppMVC.dll
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\bin\Debug\net6.0\appsettings.Development.json
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\bin\Debug\net6.0\appsettings.json
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\bin\Debug\net6.0\WebAppMVC.exe
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\bin\Debug\net6.0\WebAppMVC.deps.json
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\bin\Debug\net6.0\WebAppMVC.runtimeconfig.json
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\bin\Debug\net6.0\WebAppMVC.dll
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\bin\Debug\net6.0\WebAppMVC.pdb
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\WebAppMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\WebAppMVC.AssemblyInfoInputs.cache
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\WebAppMVC.AssemblyInfo.cs
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\WebAppMVC.csproj.CoreCompileInputs.cache
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\WebAppMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.WebAppMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAppMVC.props
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAppMVC.props
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAppMVC.props
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\scopedcss\bundle\WebAppMVC.styles.css
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\WebAppMVC.dll
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\refint\WebAppMVC.dll
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\WebAppMVC.pdb
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\WebAppMVC.genruntimeconfig.cache
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WebAppMVC\obj\Debug\net6.0\ref\WebAppMVC.dll

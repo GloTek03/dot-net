@@ -1,0 +1,33 @@
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\bin\Debug\net6.0-windows\WinFormsApp_EF.exe
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\bin\Debug\net6.0-windows\WinFormsApp_EF.deps.json
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\bin\Debug\net6.0-windows\WinFormsApp_EF.runtimeconfig.json
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\bin\Debug\net6.0-windows\WinFormsApp_EF.dll
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\bin\Debug\net6.0-windows\WinFormsApp_EF.pdb
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.csproj.AssemblyReference.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.Form1.resources
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.csproj.GenerateResource.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.AssemblyInfoInputs.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.AssemblyInfo.cs
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.csproj.CoreCompileInputs.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.dll
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\refint\WinFormsApp_EF.dll
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.pdb
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.genruntimeconfig.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\ref\WinFormsApp_EF.dll
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\bin\Debug\net6.0-windows\WinFormsApp_EF.exe
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\bin\Debug\net6.0-windows\WinFormsApp_EF.deps.json
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\bin\Debug\net6.0-windows\WinFormsApp_EF.runtimeconfig.json
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\bin\Debug\net6.0-windows\WinFormsApp_EF.dll
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\bin\Debug\net6.0-windows\WinFormsApp_EF.pdb
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.Form1.resources
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.csproj.GenerateResource.cache
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.AssemblyInfoInputs.cache
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.AssemblyInfo.cs
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.csproj.CoreCompileInputs.cache
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.dll
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\refint\WinFormsApp_EF.dll
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.pdb
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\WinFormsApp_EF.genruntimeconfig.cache
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\WinFormsApp_EF\obj\Debug\net6.0-windows\ref\WinFormsApp_EF.dll

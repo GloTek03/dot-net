@@ -1,0 +1,42 @@
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\OOP.exe
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\OOP.deps.json
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\OOP.dll
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\OOP.pdb
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\OOP.dll
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\refint\OOP.dll
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\OOP.pdb
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\ref\OOP.dll
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\Language.deps.json
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\Language.runtimeconfig.json
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\Language.exe
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\Language.dll
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\Language.pdb
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\OOP.csproj.CopyComplete
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\Language.deps.json
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\Language.runtimeconfig.json
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\Language.exe
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\OOP.exe
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\OOP.deps.json
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\OOP.dll
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\OOP.pdb
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\Language.dll
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\bin\Debug\net6.0\Language.pdb
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\OOP.csproj.CopyComplete
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\OOP.dll
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\refint\OOP.dll
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\OOP.pdb
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\OOP\obj\Debug\net6.0\ref\OOP.dll

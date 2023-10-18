@@ -1,0 +1,29 @@
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\bin\Debug\net6.0\DelegateLambda.exe
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\bin\Debug\net6.0\DelegateLambda.deps.json
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\bin\Debug\net6.0\DelegateLambda.runtimeconfig.json
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\bin\Debug\net6.0\DelegateLambda.dll
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\bin\Debug\net6.0\DelegateLambda.pdb
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\DelegateLambda.csproj.AssemblyReference.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\DelegateLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\DelegateLambda.AssemblyInfoInputs.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\DelegateLambda.AssemblyInfo.cs
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\DelegateLambda.csproj.CoreCompileInputs.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\DelegateLambda.dll
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\refint\DelegateLambda.dll
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\DelegateLambda.pdb
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\DelegateLambda.genruntimeconfig.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\ref\DelegateLambda.dll
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\bin\Debug\net6.0\DelegateLambda.exe
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\bin\Debug\net6.0\DelegateLambda.deps.json
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\bin\Debug\net6.0\DelegateLambda.runtimeconfig.json
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\bin\Debug\net6.0\DelegateLambda.dll
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\bin\Debug\net6.0\DelegateLambda.pdb
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\DelegateLambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\DelegateLambda.AssemblyInfoInputs.cache
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\DelegateLambda.AssemblyInfo.cs
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\DelegateLambda.csproj.CoreCompileInputs.cache
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\DelegateLambda.dll
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\refint\DelegateLambda.dll
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\DelegateLambda.pdb
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\DelegateLambda.genruntimeconfig.cache
+D:\FPT University\Semester 5\PRN211\Demo\Demo_PRN211_SE1730\DelegateLambda\obj\Debug\net6.0\ref\DelegateLambda.dll

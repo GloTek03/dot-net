@@ -1,0 +1,15 @@
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\Demo_PRN211_SE1730\bin\Debug\net6.0\Demo_PRN211_SE1730.exe
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\Demo_PRN211_SE1730\bin\Debug\net6.0\Demo_PRN211_SE1730.deps.json
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\Demo_PRN211_SE1730\bin\Debug\net6.0\Demo_PRN211_SE1730.runtimeconfig.json
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\Demo_PRN211_SE1730\bin\Debug\net6.0\Demo_PRN211_SE1730.dll
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\Demo_PRN211_SE1730\bin\Debug\net6.0\Demo_PRN211_SE1730.pdb
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\Demo_PRN211_SE1730\obj\Debug\net6.0\Demo_PRN211_SE1730.csproj.AssemblyReference.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\Demo_PRN211_SE1730\obj\Debug\net6.0\Demo_PRN211_SE1730.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\Demo_PRN211_SE1730\obj\Debug\net6.0\Demo_PRN211_SE1730.AssemblyInfoInputs.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\Demo_PRN211_SE1730\obj\Debug\net6.0\Demo_PRN211_SE1730.AssemblyInfo.cs
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\Demo_PRN211_SE1730\obj\Debug\net6.0\Demo_PRN211_SE1730.csproj.CoreCompileInputs.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\Demo_PRN211_SE1730\obj\Debug\net6.0\Demo_PRN211_SE1730.dll
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\Demo_PRN211_SE1730\obj\Debug\net6.0\refint\Demo_PRN211_SE1730.dll
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\Demo_PRN211_SE1730\obj\Debug\net6.0\Demo_PRN211_SE1730.pdb
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\Demo_PRN211_SE1730\obj\Debug\net6.0\Demo_PRN211_SE1730.genruntimeconfig.cache
+C:\Teaching\PRN211\Demo\Demo_PRN211_SE1730\Demo_PRN211_SE1730\obj\Debug\net6.0\ref\Demo_PRN211_SE1730.dll
